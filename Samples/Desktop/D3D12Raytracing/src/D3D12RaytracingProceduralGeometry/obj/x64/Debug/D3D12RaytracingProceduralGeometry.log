@@ -1,0 +1,11 @@
+﻿Raytracing.hlsl(138,8): warning GBFFABD58: implicit truncation of vector type
+          float r = g_sceneCB.elapsedTime * ray.origin.xy;
+                ^
+  
+  D3D12RaytracingProceduralGeometry.cpp
+  Main.cpp
+  Generating Code...
+  D3D12RaytracingProceduralGeometry.vcxproj -> D:\Users\Meine\Documents\DirectX-Graphics-Samples\Samples\Desktop\D3D12Raytracing\src\D3D12RaytracingProceduralGeometry\bin\x64\Debug\D3D12RaytracingProceduralGeometry.exe
+  Sideloading DXR Fallback Compiler.
+  "D:\Users\Meine\Documents\DirectX-Graphics-Samples\Samples\Desktop\D3D12Raytracing\src\D3D12RaytracingProceduralGeometry\bin\x64\Debug\"
+          1 file(s) copied.

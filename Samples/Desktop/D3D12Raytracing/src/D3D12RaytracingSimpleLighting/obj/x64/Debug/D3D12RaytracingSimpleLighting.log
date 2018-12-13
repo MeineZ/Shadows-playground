@@ -1,0 +1,11 @@
+﻿  stdafx.cpp
+  DeviceResources.cpp
+  Win32Application.cpp
+  D3D12RaytracingSimpleLighting.cpp
+  DXSample.cpp
+  Main.cpp
+  Generating Code...
+  D3D12RaytracingSimpleLighting.vcxproj -> C:\Users\meine\Documents\DirectX-Graphics-Samples\Samples\Desktop\D3D12Raytracing\src\D3D12RaytracingSimpleLighting\bin\x64\Debug\D3D12RaytracingSimpleLighting.exe
+  Sideloading DXR Fallback Compiler.
+  "C:\Users\meine\Documents\DirectX-Graphics-Samples\Samples\Desktop\D3D12Raytracing\src\D3D12RaytracingSimpleLighting\bin\x64\Debug\"
+          1 file(s) copied.
